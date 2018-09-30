@@ -7,7 +7,7 @@ console.log(name);
 // Cannot contain space or hyphen
 // Case sensitive 'nameNameName'
 // Changes Changes
-
+// Git branch divide calc divide
 let interestRate = 0.3;
 interestRate = 1;
 console.log(interestRate);
