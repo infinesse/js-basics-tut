@@ -6,6 +6,7 @@ console.log(name);
 // Cannot start with a number
 // Cannot contain space or hyphen
 // Case sensitive 'nameNameName'
+// Changes Changes
 
 let interestRate = 0.3;
 interestRate = 1;
