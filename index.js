@@ -8,6 +8,7 @@ console.log(name);
 // Case sensitive 'nameNameName'
 // Changes Changes
 // Git branch divide calc divide
+// and again
 let interestRate = 0.3;
 interestRate = 1;
 console.log(interestRate);
